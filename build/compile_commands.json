@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SudokuProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SudokuProject.dir\\src\\main.cpp.obj -c \"C:\\Users\\Hatem\\Desktop\\Mostafa\\Modern C++\\C++ Project\\Soduku Game\\src\\main.cpp\"",
+  "file": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/src/main.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SudokuProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SudokuProject.dir\\src\\SudokuBoard.cpp.obj -c \"C:\\Users\\Hatem\\Desktop\\Mostafa\\Modern C++\\C++ Project\\Soduku Game\\src\\SudokuBoard.cpp\"",
+  "file": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/src/SudokuBoard.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuBoard.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SudokuProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SudokuProject.dir\\src\\SudokuSolver.cpp.obj -c \"C:\\Users\\Hatem\\Desktop\\Mostafa\\Modern C++\\C++ Project\\Soduku Game\\src\\SudokuSolver.cpp\"",
+  "file": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/src/SudokuSolver.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuSolver.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SudokuProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SudokuProject.dir\\src\\SudokuGame.cpp.obj -c \"C:\\Users\\Hatem\\Desktop\\Mostafa\\Modern C++\\C++ Project\\Soduku Game\\src\\SudokuGame.cpp\"",
+  "file": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/src/SudokuGame.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuGame.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SudokuProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SudokuProject.dir\\src\\SudokuGenerator.cpp.obj -c \"C:\\Users\\Hatem\\Desktop\\Mostafa\\Modern C++\\C++ Project\\Soduku Game\\src\\SudokuGenerator.cpp\"",
+  "file": "C:/Users/Hatem/Desktop/Mostafa/Modern C++/C++ Project/Soduku Game/src/SudokuGenerator.cpp",
+  "output": "CMakeFiles/SudokuProject.dir/src/SudokuGenerator.cpp.obj"
+}
+]
